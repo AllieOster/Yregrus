@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ball
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 3607559939
+    locked: 0
+  - name: spine
+    uniqueID: 3375446927
+    locked: 0
+  - name: smalIntestin
+    uniqueID: 1669264397
+    locked: 0
+  - name: bigIntestin
+    uniqueID: 1248719503
+    locked: 0
+  - name: stomach
+    uniqueID: 2064959525
+    locked: 0
+  - name: liver
+    uniqueID: 3288339177
+    locked: 0
+  - name: lungs
+    uniqueID: 127344229
+    locked: 0
+  - name: diaphragm
+    uniqueID: 75924883
+    locked: 0
+  - name: heart
+    uniqueID: 3776880123
+    locked: 0
+  - name: ribs
+    uniqueID: 1718592245
+    locked: 0
+  - name: ball
+    uniqueID: 2306419385
+    locked: 0
+  - name: box
+    uniqueID: 2835786955
+    locked: 0

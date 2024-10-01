@@ -1,0 +1,61 @@
+# Fichiers de build
+/[Bb]uild*/
+[Ll]ibrary/
+[Tt]emp/
+[Tt]humbs.db
+[Oo]bj/
+[Bb]uilds/
+
+# Fichiers générés par Unity
+/[Aa]ssets/AssetStoreTools*
+/[Ll]ibrary/
+/[Mm]emoryCaptures/
+/[Ss]olution/
+*.sln
+*.suo
+*.userprefs
+*.user
+*.pidb
+*.boid
+
+# Configuration de l'IDE
+*.csproj
+*.pidb.meta
+*.sln.meta
+*.user
+*.userprefs
+
+# Fichiers de logs
+*.log
+
+# Fichiers temporaires
+*.tmp
+*.temp
+
+# Fichiers de sauvegarde
+*.bak
+*~
+*.swp
+
+# Fichiers d'export
+*.apk
+*.aab
+*.unitypackage
+
+# Cache de la version
+/.vs/
+.idea/
+.vs/
+
+# Autres fichiers
+*.DS_Store
+*.db
+
+# Répertoires spécifiques d'outils
+/.gradle/
+*.gradle
+/.clang-format
+*.yml
+*.csv
+*.zip
+*.tar.gz
